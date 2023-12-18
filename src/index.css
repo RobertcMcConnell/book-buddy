@@ -31,3 +31,9 @@ nav a{
   display: flex;
   flex-wrap: wrap;
 }
+.singlebook {
+  text-align: center;
+}
+.homepage {
+  text-align: center;
+}
